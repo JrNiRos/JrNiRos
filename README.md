@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Jose Raimundo
 
 🎓 Recién graduado en **Desarrollo de Aplicaciones Web (DAW)**  
 💻 Apasionado por la programación, el diseño web y el aprendizaje constante.  
@@ -29,11 +29,7 @@
 - Buenas prácticas en **despliegue y seguridad web**  
 
 ---
-
-## 📫 Conecta conmigo
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(añade tu perfil)*  
-- ✉️ [Email](mailto:tuemail@example.com)  
-
+ 
 ---
 
 ✨ *Siempre abierto a colaborar en proyectos, aprender de otros desarrolladores y seguir creciendo en este mundo tech.*  
