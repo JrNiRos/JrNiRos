@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jose Raimundo
 
-🎓 Recién graduado en **Desarrollo de Aplicaciones Web (DAW)**  
+🎓 **Desarrollador de Aplicaciones Web (FullStack)**  
 💻 Apasionado por la programación, el diseño web y el aprendizaje constante.  
 🚀 En este GitHub encontrarás mis proyectos, experimentos y prácticas mientras sigo creciendo como desarrollador.
 
